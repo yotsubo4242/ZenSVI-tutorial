@@ -7,7 +7,11 @@ authors = [
     { name = "yotsubo", email = "513047.otsubo@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "torch>=2.7.0",
+    "torchvision>=0.22.0",
+    "zensvi>=1.2.4",
+]
 
 [project.scripts]
 zensvi-tutorial = "zensvi_tutorial:main"
