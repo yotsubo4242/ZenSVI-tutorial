@@ -11,3 +11,4 @@ wheels/
 .env
 download/
 transformed/
+cloud_points/
