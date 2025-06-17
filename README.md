@@ -5,7 +5,7 @@
 ## 作業手順
 - [x] 研究室 PC 上で環境構築
 - [x] [SVI のダウンロードの実行](https://zensvi.readthedocs.io/en/latest/examples/demo_Downloading.html)
-- [ ] [画像の変換](https://zensvi.readthedocs.io/en/latest/examples/demo_transform_images.html)
+- [x] [画像の変換](https://zensvi.readthedocs.io/en/latest/examples/demo_transform_images.html)
 - [ ] [メタデータ分析](https://zensvi.readthedocs.io/en/latest/examples/demo_metadata_analysis.html)
 - [ ] [Global Streetscapes](https://zensvi.readthedocs.io/en/latest/examples/demo_GlobalStreetscapes.html)
 - [ ] [知覚モデル](https://zensvi.readthedocs.io/en/latest/examples/demo_GlobalStreetscapes.html)
@@ -18,6 +18,8 @@
 ### 研究室 PC 上で環境構築
 ### SVI のダウンロードの実行
 ### 画像の変換
+- 点群データへの変換がうまくできなかった. 
+- おそらく, `data` 変数にデータを格納するための csv ファイルのデータフォーマットが違う.
 ### メタデータ分析
 ### Global Streetscapes
 ### 知覚モデル
